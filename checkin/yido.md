@@ -1,2 +1,3 @@
-Yido has checked in.
-**MODIFICATION to BRANCH** `yido`
+Yido has checked in.  
+**MODIFICATION to BRANCH** `yido`  
+A newline starts after two spaces!  
